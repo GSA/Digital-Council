@@ -1,9 +1,9 @@
-# Digital Council
+# Federal Digital Council
 
 ---
 
 ## Federal Digital Council Charter
-Draft May 2017
+_Draft | Last updated: May 2017_
  
 ### Purpose
 The purpose of the Council is to:
